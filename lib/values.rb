@@ -11,4 +11,5 @@ require 'pry'
 def get_the_values(groceries)
   #code your solution here!
   my_values = groceries.values.flattern
+  my_values
 end
